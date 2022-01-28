@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="timer.MainPage">
+    <StackLayout BackgroundColor="#f5fffe">
+        
+       
+        <Label TextColor="#000" Text="Twój niezastąpiony pomocnik w kuchni!" FontSize="40" Margin="15, 100"  />
+        <Label Text="Sec" TextColor="#868787" HorizontalTextAlignment="Center" FontSize="30"/>
+        <Label FontSize="20" HorizontalOptions="Center"
+              TextColor="Black" Text="{Binding ProgressValue, StringFormat='{0}'}"/>
+        <Button
+            Text="Start"
+            Margin="30"
+             FontSize="30"
+             Padding="15,10,15,10"
+            BackgroundColor="#94f2e7d0"
+            HorizontalOptions="CenterAndExpand"
+            Clicked="Button_Clicked"
+            BorderColor="#0092a6"
+            BorderWidth="1"
+            TextColor="#606161"
+            />
+        <Label x:Name="Infor"  TextColor="#0092a6" FontSize="23" Text="Włóż jajko do zimnej wody i naciśnij START, aż woda zacznie wrzeć!" HorizontalTextAlignment="Center" Margin="25"/>
+    </StackLayout>
+
+</ContentPage>

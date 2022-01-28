@@ -1,0 +1,15 @@
+D:\timer\timer\timer\bin\Debug\netstandard2.0\timer.deps.json
+D:\timer\timer\timer\bin\Debug\netstandard2.0\timer.dll
+D:\timer\timer\timer\bin\Debug\netstandard2.0\ref\timer.dll
+D:\timer\timer\timer\bin\Debug\netstandard2.0\timer.pdb
+D:\timer\timer\timer\obj\Debug\netstandard2.0\timer.csproj.AssemblyReference.cache
+D:\timer\timer\timer\obj\Debug\netstandard2.0\timer.GeneratedMSBuildEditorConfig.editorconfig
+D:\timer\timer\timer\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\timer\timer\timer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\timer\timer\timer\obj\Debug\netstandard2.0\timer.AssemblyInfoInputs.cache
+D:\timer\timer\timer\obj\Debug\netstandard2.0\timer.AssemblyInfo.cs
+D:\timer\timer\timer\obj\Debug\netstandard2.0\timer.csproj.CoreCompileInputs.cache
+D:\timer\timer\timer\obj\Debug\netstandard2.0\XamlC.stamp
+D:\timer\timer\timer\obj\Debug\netstandard2.0\timer.dll
+D:\timer\timer\timer\obj\Debug\netstandard2.0\ref\timer.dll
+D:\timer\timer\timer\obj\Debug\netstandard2.0\timer.pdb
